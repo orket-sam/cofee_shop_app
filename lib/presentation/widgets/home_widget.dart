@@ -222,8 +222,8 @@ class HomeWidget extends StatelessWidget {
                         Text(
                           '\$ 5.78',
                           style: TextStyle(
-                            fontSize: 20,
-                            fontWeight: FontWeight.w900,
+                            fontSize: 16,
+                            fontWeight: FontWeight.w700,
                           ),
                         ),
                         Spacer(),
